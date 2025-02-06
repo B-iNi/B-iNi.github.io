@@ -226,3 +226,11 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+    comments:
+  provider: utterances
+  utterances:
+    repo: B-iNi/B-iNi.github.io  # GitHub 저장소 이름
+    issue_term: pathname  # URL 기반으로 댓글 매칭
+    label: "comments"  # GitHub 이슈에 자동으로 붙는 라벨
+
