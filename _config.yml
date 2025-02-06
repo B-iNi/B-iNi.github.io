@@ -122,9 +122,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: "B-iNi/b-ini.github.io" # <gh-username>/<repo>
-    repo_id: "your-repo-id"
+    repo_id: "188813721"
     category: "General"
-    category_id: "your-category-id"
+    category_id: "DIC_kwDON0CxpM4Cmtxu"
     mapping: "pathname" # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
