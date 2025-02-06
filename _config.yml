@@ -234,3 +234,15 @@ jekyll-archives:
     issue_term: pathname  # URL 기반으로 댓글 매칭
     label: "comments"  # GitHub 이슈에 자동으로 붙는 라벨
 
+giscus:
+  enable: true
+  repo: B-iNi/B-iNi.github.io
+  repo_id: "저장소 ID"
+  category: "Discussion 카테고리"
+  category_id: "카테고리 ID"
+  mapping: "pathname"
+  reactions_enabled: "1"
+  theme: "light"
+
+    
+
