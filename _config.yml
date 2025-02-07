@@ -17,9 +17,9 @@ timezone:
 title: Bini # the main title
 
 tagline: >-
-  일상을
-  기록하는
-  장소 # it will display as the subtitle
+  일 상을
+  기 록하는
+  장 소 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
