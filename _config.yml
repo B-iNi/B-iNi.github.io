@@ -200,7 +200,7 @@ defaults:
       permalink: /:title/
 
 sass:
-  style: compressed
+  style: expanded
 
 style:
   custom: addon/custom
