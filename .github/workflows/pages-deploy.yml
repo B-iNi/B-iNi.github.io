@@ -39,11 +39,12 @@ jobs:
           ruby-version: 3.3
           bundler-cache: true
 
-      # SCSS 파일을 CSS로 컴파일하는 단계 추가
-      - name: Install dependencies
+      # Ruby의 sassc를 설치
+      - name: Install sassc
         run: |
           gem install sassc  # SCSS를 CSS로 변환할 수 있는 sassc 설치
 
+      # SCSS 파일을 CSS로 컴파일하는 단계 추가
       - name: Compile SCSS to CSS
         run: |
           sassc assets/css/style.scss assets/css/style.css  # SCSS -> CSS 컴파일
