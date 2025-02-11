@@ -1,0 +1,6 @@
+/* custom.css 파일에 추가할 스타일 */
+
+/* 예시로 커서 변경을 위한 스타일 */
+body {
+  cursor: url('https://cdn-icons-png.flaticon.com/128/16368/16368831.png'), auto; /* 원하는 커서 이미지 URL */
+}
