@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /norobots/
+Sitemap: https://b-ini.github.io/sitemap.xml
