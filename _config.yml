@@ -236,7 +236,7 @@ jekyll-archives:
     category: /categories/:name/
 
 #plugins:
-  - jekyll-sitemap
+  #- jekyll-sitemap
     
 
 # 지피티 보고 추가한 것인데 위에 giscus 가 있어서 주석처리함
